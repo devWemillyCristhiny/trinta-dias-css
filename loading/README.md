@@ -1,3 +1,3 @@
-### Este projeto tem como objetivo criar a abilidades CSS
+## Este projeto tem como objetivo criar a habilidades CSS
 
-. Projeto em desenvolvimento
+- Projeto em desenvolvimento
