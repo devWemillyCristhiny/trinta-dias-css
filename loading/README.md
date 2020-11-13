@@ -1,4 +1,4 @@
-##  Este Projeto tem como objetivo criar habiliadades CSS <br><br>
+##  Este Projeto tem como objetivo criar habilidades CSS <br><br>
 
 ### <i>Primeiro dia do projeto CSS</i><br> <br>
 
