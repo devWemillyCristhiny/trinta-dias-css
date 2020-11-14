@@ -10,8 +10,7 @@ Este Projeto foi criado em:
 
 <ul>
  <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a></li>
-    <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a></li>
-    <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Conceitos_Basicos_do_Flexbox">FlexBox</a></li>
+ <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a></li>
     <li><a href="https://pt-br.reactjs.org/">React.js</a></li>
 </ul>
 
